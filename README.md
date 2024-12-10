@@ -13,8 +13,14 @@
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jonovackk&show_icons=true&theme=gotham&include_all_commits=true" height="200" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonovackk&layout=compact&langs_count=16&theme=gotham" height="200" />
 </div>
+<br /><br />
+
+### My skills:
+
+  <img align="left" alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql" />
 
 
+<br /><br />
 
-
+### 
 
