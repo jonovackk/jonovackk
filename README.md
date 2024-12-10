@@ -3,7 +3,6 @@
 
 [![jnovack's 42 stats](https://badge.mediaplus.ma/greenbinary/jnovack?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently studying C.
 - 💾 I’m currently studying at [42 Luxembourg](https://www.42luxembourg.lu).
 - 💻 I am also a student at [UNINTER](https://www.uninter.com)(International University Center), pursuing a degree in Systems Analysis and Development.
